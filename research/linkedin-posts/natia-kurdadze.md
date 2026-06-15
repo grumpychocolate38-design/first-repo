@@ -1,6 +1,6 @@
 # Natia Kurdadze - Reddit for Startup Growth
 
-**Date:** [Check the post date on LinkedIn]
+**Date:** 2025
 
 **URL:** https://www.linkedin.com/posts/natiakurdadze_startup-marketing-reddit-activity-7252699510949220352-dLN9/
 
