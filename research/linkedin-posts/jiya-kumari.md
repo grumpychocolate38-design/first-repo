@@ -131,7 +131,7 @@ That is what Reddit marketing is. Everything else is just noise that eventually 
 - **Deep Cultural Integration**: Every subreddit has its own unspoken social contract. Success requires deep immersion, understanding the niche, the pain points, and the "unwritten rules" of each specific community.
 
 ## Notable Comments
-- -
+- None.
 
 ## My Takeaways for Reddit B2B Strategy
 - **Redefine KPIs**: Shift metrics away from "impressions" and "post counts." Focus on organic brand mentions, AI citation frequency, and community sentiment.
