@@ -43,7 +43,11 @@ trust + insight + search visibility… all in the same place.
 - **The Danger of Misalignment**: Applying standard social media playbooks—defined by "post, push, promote"—to Reddit is counterproductive. These tactics are antithetical to the platform’s culture and serve only to alienate the community.
 
 ## Notable Comments
-- None.
+- By Chasen Seymore, "Redditors can sniff out anything fake or sales-y faster than a bloodhound on double espresso. When a brand rolls into an AMA (or a niche sub) and answers like they’re on Instagram or TikTok, I’m grabbing popcorn and settling in. It’s peak entertainment and a tiny bit tragic because you can watch the train leave the tracks in real time. You can’t control the narrative on Reddit. At best, you’re just gently steering the chaos. And dropping a “can we get back on topic?” That’s how you summon the dragons.
+
+If a brand shows up, they better be ready for a few skeletons to come tap-dancing out. The only way to survive is to be real and have someone who actually knows the product, the community, and why Redditors are built different. Anything else gets roasted instantly."
+
+- By Athira Unnikrishnan, "Can't agree more! Brands often think they can scale and push content relentlessly on Reddit like they do on other platforms! That's the worst they can do to their marketing efforts. But Redditors notice this way faster and will get the account banned in no time! The 'number game' is not very rewarding here😌"
 
 ## My Takeaways for Reddit B2B SaaS Strategy
 - **Cultivate Long-Term Authority**: Recognize that the goal is not a quick traffic spike, but the compounding effect of trust and search visibility, which can only be achieved by learning and respecting the unique norms of the Reddit environment.
