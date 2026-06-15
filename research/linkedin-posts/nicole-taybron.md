@@ -2,7 +2,7 @@
 
 **Date:** May, 2026
 
-**URL:** https://www.linkedin.com/posts/nicole-taybron_most-people-think-i-manage-reddit-accounts-activity-7452317725793746944-lLH3?utm_source=share&utm_medium=member_desktop&rcm=ACoAADgXrq4BxQQ3_600YzmSsprFVXXD5SwyA8g
+**URL:** https://www.linkedin.com/posts/nicole-taybron_most-people-think-i-manage-reddit-accounts-activity-7452317725793746944-lLH3g
 
 **Platform:** LinkedIn Post
 
