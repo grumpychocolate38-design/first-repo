@@ -1,4 +1,4 @@
-# Jiya Kumari - Reddit for Startup Growth
+# Jiya Kumari - Head of GEO & AI Visibility | Helping B2B SaaS & AI startups rank on ChatGPT, Perplexity & Reddit
 
 **Date:** June 9, 2026
 
@@ -133,7 +133,7 @@ That is what Reddit marketing is. Everything else is just noise that eventually 
 ## Notable Comments
 - None.
 
-## My Takeaways for Reddit B2B Strategy
+## My Takeaways for Reddit B2B SaaS Strategy
 - **Redefine KPIs**: Shift metrics away from "impressions" and "post counts." Focus on organic brand mentions, AI citation frequency, and community sentiment.
 - **Change Your Hiring Criteria**: If you hire an agency, interrogate their methods. Demand to see accounts with established histories and ask them how they navigate subreddit moderation rather than how they "bypass" it.
 - **Focus on AI SEO**: Position your brand to appear in organic conversations. When AI systems crawl Reddit to answer "What is the best [B2B SaaS solution] for X?", your brand should be a natural part of that consensus.
