@@ -33,5 +33,5 @@ If you want to find customers in Reddit communities:
 ## Notable Comments
 By Jeff Sanders, "Editing the post and adding a CTA later works like a charm as well".
 
-## My Takeaways for Reddit B2B Strategy
+## My Takeaways for Reddit B2B SaaS Strategy
 Being organic and engaging with the existing community, instead of hard selling is the most important thing within Reddit ecosystem.
